@@ -1,0 +1,8 @@
+{
+"name":"YOKOHAMA steak Pool",
+"ticker":"YKSP",
+"discordId":"801733561903874050",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/bamboo-pool/cardano/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/bamboo-pool/cardano/main/sjg-validation.json"
+}
